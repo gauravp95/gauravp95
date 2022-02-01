@@ -3,7 +3,6 @@ I also know sequel and excel.
 - 👀 I’m interested in Data Science, Artifcial Intelligence and Machine Learning.
 - 🌱 I’m currently learning Data Science & Analytics, Web Development.
 - 💼 for any freelancing work reach me at email
-- 📫 How to reach me ...
 
 <!---
 gauravp95/gauravp95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
