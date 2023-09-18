@@ -36,8 +36,7 @@ Here are some of my key skills and technologies I work with:
 
 - 📫 You can reach out to me via email at gauravpatil4195@gmail.com
 - 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/gauravpatil4195)
-[//]: # (- 🐦 Follow me on [Twitter](https://twitter.com/yourusername))
-
+[]: # "- 🐦 Follow me on [Twitter](https://twitter.com/yourusername)"
 ## My GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gauravp95&show_icons[//]:=true)
