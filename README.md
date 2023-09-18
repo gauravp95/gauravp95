@@ -20,7 +20,7 @@ Here are some of my key skills and technologies I work with:
 - **Deployment:** Heroku, Netlify
 - **Tools:** Visual Studio Code, Postman, npm/yarn
 
-[# ## My Projects]
+[# ## My Projects] #
 
 [//]: # (Here are a few projects I've worked on:)
 
