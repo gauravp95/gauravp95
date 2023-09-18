@@ -20,7 +20,7 @@ Here are some of my key skills and technologies I work with:
 - **Deployment:** Heroku, Netlify
 - **Tools:** Visual Studio Code, Postman, npm/yarn
 
-[# ## My Projects] #
+<!--- # ## My Projects
 
 [//]: # (Here are a few projects I've worked on:)
 
@@ -31,21 +31,24 @@ Here are some of my key skills and technologies I work with:
 [//]: # ([Repeat the above pattern for your other projects.])
 
 [//]: # (### [Project Name 3](link-to-project-3)
+--->
 
 ## Get in Touch
 
 - 📫 You can reach out to me via email at gauravpatil4195@gmail.com
 - 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/gauravpatil4195)
-[]: # "- 🐦 Follow me on [Twitter](https://twitter.com/yourusername)"
+<!---
+- 🐦 Follow me on [Twitter](https://twitter.com/yourusername)
 ## My GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gauravp95&show_icons[//]:=true)
 
-[//]: # (## Support Me)
+## Support Me
 
-[//]: # (If you find my work interesting or helpful, consider buying me a coffee!)
+If you find my work interesting or helpful, consider buying me a coffee!
 
-[//]: # ([![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Donate-%23FF813F)](link-to-coffee-donation-page))
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Donate-%23FF813F)](link-to-coffee-donation-page)
+--->
 
 ## Thank You!
 
