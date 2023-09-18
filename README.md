@@ -24,13 +24,13 @@ Here are some of my key skills and technologies I work with:
 
 [//]: # (Here are a few projects I've worked on:)
 
-[//]: # (### [Project Name 1](link-to-project-1))
+[//]: # (### [Project Name 1](link-to-project-1)
 [//]: # ([Provide a brief description of the project, your role, and the technologies used.])
 
-[//]: # (### [Project Name 2](link-to-project-2))
+[//]: # (### [Project Name 2](link-to-project-2)
 [//]: # ([Repeat the above pattern for your other projects.])
 
-[//]: # (### [Project Name 3](link-to-project-3))
+[//]: # (### [Project Name 3](link-to-project-3)
 
 ## Get in Touch
 
